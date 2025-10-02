@@ -65,7 +65,7 @@
   "dependencies": {
     "@noble/hashes": "^1.2.0",
     "bech32": "^2.0.0",
-    "bip174": "^3.0.0-rc.0",
+    "bip174": "^3.0.0",
     "bs58check": "^4.0.0",
     "uint8array-tools": "^0.0.9",
     "valibot": "^0.38.0",
