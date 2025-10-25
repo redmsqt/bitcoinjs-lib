@@ -7,7 +7,7 @@ import base58KeysInvalid from './fixtures/core/base58_keys_invalid.json';
 import base58KeysValid from './fixtures/core/base58_keys_valid.json';
 import blocksValid from './fixtures/core/blocks.json';
 import sigCanonical from './fixtures/core/sig_canonical.json';
-import sigNoncanonical from './fixtures/core/sig_noncanonical.json';
+import sigNoncanonical from './fixtures/core/sig_noncanonical.json';j
 import sigHash from './fixtures/core/sighash.json';
 import txValid from './fixtures/core/tx_valid.json';
 import * as tools from 'uint8array-tools';
